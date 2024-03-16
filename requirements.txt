@@ -1,0 +1,10 @@
+geopandas
+matplotlib
+PyMuPDF
+requests
+numpy
+opencv-python
+rasterio
+clarifai
+GDAL
+

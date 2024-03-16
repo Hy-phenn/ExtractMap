@@ -1,0 +1,1 @@
+In the Directory "pdfs/" place the pdf in the format "{City}.pdf"
